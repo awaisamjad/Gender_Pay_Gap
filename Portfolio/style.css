@@ -1,0 +1,20 @@
+
+div.header{
+    position: relative;
+    border: 2px solid black;
+    border-radius: 17px;
+    width: 1200px;
+    text-align: center;
+    left:100px;
+}
+.images{
+    position: absolute;
+    left: 10px;
+}
+div.TopQuartile{
+    position: absolute;
+    left: 100px;
+}
+div.TopQuartile.Female-Top-Quartile{
+    border: 5px solid black;
+}
